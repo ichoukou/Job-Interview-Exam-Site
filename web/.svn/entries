@@ -1,0 +1,100 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/web
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-28T10:55:37.079038Z
+54
+paul
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79689fdd-55d7-db11-98f1-001320a83c46
+
+frontend_dev.php
+file
+
+
+
+
+2007-03-28T11:58:32.000000Z
+e6dab03b5f27abd1c553bcdf3454245c
+2007-03-21T02:46:43.777058Z
+4
+paul
+
+images
+dir
+
+robots.txt
+file
+
+
+
+
+2007-03-21T04:05:49.000000Z
+58358960364e26d020c98d05aa8f27ad
+2007-03-21T02:46:43.777058Z
+4
+paul
+
+uploads
+dir
+
+css
+dir
+
+.htaccess
+file
+
+
+
+
+2007-03-21T04:05:49.000000Z
+6c58cf9507c79cb82fe1dff0f42f72bd
+2007-03-21T02:46:43.777058Z
+4
+paul
+
+js
+dir
+
+index.php
+file
+
+
+
+
+2007-03-28T10:10:27.000000Z
+261345efb8d214f51c0ba1c7c3b8ad50
+2007-03-28T10:18:48.948240Z
+52
+paul
+
+admin.php
+file
+
+
+
+
+2007-03-28T09:53:06.000000Z
+81379775a402a361e69e063503aa8223
+2007-03-28T10:55:37.079038Z
+54
+paul
+

@@ -1,0 +1,22 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/admin/modules/question_generator
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-29T00:05:37.407930Z
+57
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+actions
+dir
+
+config
+dir
+

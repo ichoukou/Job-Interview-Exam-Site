@@ -1,0 +1,21 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      LevelPreset
+    theme:            default
+
+    fields:
+      question_no:  { name: No Of Question }
+      grade:        { name: Position Level }
+      name:         { name: Type of Question }
+      
+    list:
+      title:    List of Staff Level
+      display:  [ id, name, department, grade, level, question_no ]
+      object_actions:
+        _edit:        ~
+        _delete:      ~
+      filters:  [ name, grade_id, department_id ]
+
+    edit:
+      title:    Edit Staff Level

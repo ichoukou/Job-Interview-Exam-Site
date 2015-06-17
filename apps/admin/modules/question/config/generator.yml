@@ -1,0 +1,23 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      Question
+    theme:            default
+
+    fields:
+      description:  { name: Question }
+      answer_a:     { name: A }
+      answer_b:     { name: B }
+      answer_c:     { name: C }
+      answer_d:     { name: D }
+      answer_option_id:  { name: Answer? }
+      department_id:   { name: Type of Question }
+    
+    list:
+      title:    List of Questions
+      display:  [ id, description, answer_a, answer_b, answer_c, answer_d, department, level ]
+      filters:  [ department_id, level ]
+    
+    edit:
+      title: Question Edit
+      display:  [ id, description, answer_a, answer_b, answer_c, answer_d, department_id, level ]

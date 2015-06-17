@@ -1,0 +1,40 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/admin/modules/answer_option/config
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-28T10:18:48.948240Z
+52
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+generator.yml
+file
+
+
+
+
+2007-03-28T09:59:31.000000Z
+00ea876a147627c0682f2192213bd9f1
+2007-03-28T10:18:48.948240Z
+52
+paul
+
+security.yml
+file
+
+
+
+
+2007-03-28T09:59:05.000000Z
+90720f5eeaaa8d3317312862c94d9f18
+2007-03-28T10:18:48.948240Z
+52
+paul
+

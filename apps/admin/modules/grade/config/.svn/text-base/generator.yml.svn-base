@@ -1,0 +1,8 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      Grade
+    theme:            default
+
+    list:
+      display:  [ id, name, description, department ]

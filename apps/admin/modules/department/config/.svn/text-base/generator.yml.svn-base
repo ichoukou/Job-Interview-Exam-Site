@@ -1,0 +1,9 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      Department
+    theme:            default
+
+    list:
+      title:  List of Department
+      display:  [ id, name, user ]

@@ -1,0 +1,43 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/frontend/modules/exam
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-04-05T02:26:52.041585Z
+62
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79689fdd-55d7-db11-98f1-001320a83c46
+
+actions
+dir
+
+config
+dir
+
+lib
+dir
+
+validate
+dir
+
+templates
+dir
+

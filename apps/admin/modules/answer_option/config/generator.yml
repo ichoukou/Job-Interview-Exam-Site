@@ -1,0 +1,9 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      AnswerOption
+    theme:            default
+    
+    list:
+      title: List of Answer Options
+      display:  [ id, name ]

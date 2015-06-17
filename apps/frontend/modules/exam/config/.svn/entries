@@ -1,0 +1,16 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/frontend/modules/exam/config
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-28T06:21:04.059754Z
+47
+paul
+
+
+svn:special svn:externals svn:needs-lock
+

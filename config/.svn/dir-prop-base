@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 51
+config.php
+databases.yml
+propel.ini
+properties.ini
+
+END

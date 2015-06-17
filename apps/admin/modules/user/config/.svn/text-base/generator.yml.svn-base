@@ -1,0 +1,15 @@
+generator:
+  class:              sfPropelAdminGenerator
+  param:
+    model_class:      User
+    theme:            default
+
+    edit: 
+      fields:
+        department_id: { params: include_custom=Select Group }
+    
+    list:
+      display: [ id, fullname, email, admin, grade, department ]
+      fields:
+        grade:  { name: Position Title }
+        id:     { name: id }

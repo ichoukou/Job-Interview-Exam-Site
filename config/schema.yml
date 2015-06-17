@@ -1,0 +1,66 @@
+propel:
+  kra_user:
+    _attributes:  { phpName: User }
+    id:
+    fullname: { type: varchar(255), required: true }
+    email:  { type: varchar(255), requiered: true }
+    username: { type: varchar(100), required: true }
+    password: { type: varchar(100), required: true }
+    admin:    { type: boolean, required: true }
+    grade_id:
+    department_id:
+    created_at:
+  
+  kra_department:
+    _attributes: { phpName: Department }
+    id:
+    name: { type: varchar(100), required: true }
+    user_id:
+    created_at:
+      
+  kra_grade:
+    _attributes: { phpName: Grade }
+    id:
+    name: { type: varchar(50), required: true }
+    description: { type: varchar(200), required: true }
+    department_id:
+    created_at:
+      
+  kra_level_preset:
+    _attributes: { phpName: LevelPreset }
+    id:
+    name: { type: varchar(255), required: true }
+    department_id:
+    grade_id:
+    level:  { type: integer, required: true }
+    question_no: { type: integer, required: true }
+    created_at: 
+
+  kra_question:
+    _attributes:  { phpName: Question }
+    id:
+    description: { type: longvarchar, required: true }
+    answer_a: { type: longvarchar, required: true }
+    answer_b: { type: longvarchar, required: true }
+    answer_c: { type: longvarchar, required: true }
+    answer_d: { type: longvarchar, required: true }
+    answer_option_id:  
+    department_id:
+    level:  { type: integer, required: true }
+    created_at:
+      
+  kra_answer_option:
+    _attributes:  { phpName: AnswerOption }
+    id:
+    name: { type: varchar(10), required: true }
+    option_name: { type: integer, required: true }
+  
+  kra_question_generator:
+    _attributes: { phpName: QuestionGenerator }
+    id:
+    user_id:
+    question_id:
+    answer: { type: integer, required: true, default: 0 }
+    answer_option_id:
+    created_at: 
+    answer_at:  { type: timestamp, required: true }

@@ -1,0 +1,40 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/web/css
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-28T06:19:51.060701Z
+46
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79689fdd-55d7-db11-98f1-001320a83c46
+
+main.css
+file
+
+
+
+
+2007-03-28T06:13:55.000000Z
+e2e279d39393627d85f77ead7bda016f
+2007-03-28T06:19:51.060701Z
+46
+paul
+

@@ -1,0 +1,1 @@
+Welcome <?php echo $sf_user->getAttribute('fullname'); ?>, <?php echo link_to('Click here', 'exam/start'); ?> to start you test.

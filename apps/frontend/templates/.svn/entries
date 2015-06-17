@@ -1,0 +1,40 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/frontend/templates
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-21T02:46:43.777058Z
+4
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79689fdd-55d7-db11-98f1-001320a83c46
+
+layout.php
+file
+
+
+
+
+2007-03-28T09:35:51.000000Z
+96cd942ba91dc244c19e9886db4b4660
+2007-03-21T02:46:43.777058Z
+4
+paul
+

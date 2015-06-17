@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * answer_option actions.
+ *
+ * @package    kra
+ * @subpackage answer_option
+ * @author     Your name here
+ * @version    SVN: $Id: actions.class.php 2288 2006-10-02 15:22:13Z fabien $
+ */
+class answer_optionActions extends autoanswer_optionActions
+{
+}

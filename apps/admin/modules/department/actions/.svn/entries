@@ -1,0 +1,28 @@
+8
+
+dir
+65
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra/trunk/apps/admin/modules/department/actions
+svn+ssh2://paul@simpson.aims.com.my/usr/home/paul/kra
+
+
+
+2007-03-28T10:18:48.948240Z
+52
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+actions.class.php
+file
+
+
+
+
+2007-03-28T09:51:37.000000Z
+3e68c946023b7d9e52ff75d68c816bcc
+2007-03-28T10:18:48.948240Z
+52
+paul
+
